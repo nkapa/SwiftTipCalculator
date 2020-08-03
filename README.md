@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/W0p2CDG' width=250/>
+<img src='https://i.imgur.com/toWuZlD.gif' width=250/>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
