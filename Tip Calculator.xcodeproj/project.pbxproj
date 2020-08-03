@@ -15,6 +15,7 @@
 		9102DC2724D7859400851A8B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9102DC2524D7859400851A8B /* LaunchScreen.storyboard */; };
 		9102DC3224D7859400851A8B /* Tip_CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9102DC3124D7859400851A8B /* Tip_CalculatorTests.swift */; };
 		9102DC3D24D7859400851A8B /* Tip_CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9102DC3C24D7859400851A8B /* Tip_CalculatorUITests.swift */; };
+		9102DC4B24D7CACA00851A8B /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9102DC4A24D7CACA00851A8B /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		9102DC3824D7859400851A8B /* Tip CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tip CalculatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9102DC3C24D7859400851A8B /* Tip_CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tip_CalculatorUITests.swift; sourceTree = "<group>"; };
 		9102DC3E24D7859400851A8B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9102DC4A24D7CACA00851A8B /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				9102DC1E24D7859300851A8B /* ViewController.swift */,
 				9102DC2024D7859300851A8B /* Main.storyboard */,
 				9102DC2324D7859400851A8B /* Assets.xcassets */,
+				9102DC4A24D7CACA00851A8B /* SettingsViewController.swift */,
 				9102DC2524D7859400851A8B /* LaunchScreen.storyboard */,
 				9102DC2824D7859400851A8B /* Info.plist */,
 			);
@@ -262,6 +265,7 @@
 				9102DC1F24D7859300851A8B /* ViewController.swift in Sources */,
 				9102DC1B24D7859300851A8B /* AppDelegate.swift in Sources */,
 				9102DC1D24D7859300851A8B /* SceneDelegate.swift in Sources */,
+				9102DC4B24D7CACA00851A8B /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
