@@ -1,4 +1,4 @@
-# Pre-work - TipMe
+# CodePath Pre-Work: TipMe
 
 TipMe is a tip calculator application for iOS.
 
