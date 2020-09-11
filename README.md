@@ -10,9 +10,7 @@ The application has the following functionality:
 * User can split the total bill by up to 5 people.
 * User can navigate to a settings page to change the default tip percentage.
 
-## Video Walkthrough 
-
-Here's a walkthrough of implemented user stories:
+## Video Walkthrough
 
 <img src='https://i.imgur.com/toWuZlD.gif' width=250/>
 
