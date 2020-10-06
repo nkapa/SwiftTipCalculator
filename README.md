@@ -1,18 +1,35 @@
-# CodePath: TipMe
+# Pre-work - TipMe
 
 TipMe is a tip calculator application for iOS.
 
+Submitted by: Nandini Kapa
+
+Time spent: 5 hours spent in total
+
 ## User Stories
 
-The application has the following functionality:
+The following **required** functionality is complete:
 
-* User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* User can split the total bill by up to 5 people.
-* User can navigate to a settings page to change the default tip percentage.
+* [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
-## Video Walkthrough
+The following **optional** features are implemented:
+* [X] Settings page to change the default tip percentage.
+* [ ] UI animations
+* [ ] Remembering the bill amount across app restarts (if <10mins)
+* [ ] Using locale-specific currency and currency thousands separators.
+* [X] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
-<img src='https://i.imgur.com/toWuZlD.gif' width=250/>
+The following **additional** features are implemented:
+
+- [X] Tip slider that adjusts the tip percentage.
+- [X] Tip splitting feature.
+- [X] Improved UI Layout. (ex. Gradient Background)
+
+## Video Walkthrough 
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
